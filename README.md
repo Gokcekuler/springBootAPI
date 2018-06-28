@@ -1,2 +1,1 @@
-
-https://ci.inria.fr/pharo-contribution/buildStatus/icon?job=CogDroid
+[![Build Status](https://ci.inria.fr/pharo-contribution/job/CogDroid/badge/icon)](https://ci.inria.fr/pharo-contribution/job/CogDroid/)
