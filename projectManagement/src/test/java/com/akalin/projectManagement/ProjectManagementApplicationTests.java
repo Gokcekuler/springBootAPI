@@ -50,7 +50,7 @@ public class ProjectManagementApplicationTests {
         int k = 2;
         int l = 4;
         int m = 6;
-        assertFalse(x < y);
+        assertFalse(x > y);
     }
 
 
@@ -75,7 +75,7 @@ public class ProjectManagementApplicationTests {
         int bolen = 4;
         int bolunen = 12;
         int bolme = bolunen / bolen;
-        assertFalse(bolme < 53);
+        assertFalse(bolme > 53);
     }
 
     @Test
@@ -90,7 +90,7 @@ public class ProjectManagementApplicationTests {
         if (ucuncu > ebs) {
             ebs = ucuncu;
         }
-        assertSame(ebs, ikinci);
+        assertSame(ebs,ucuncu);
     }
 
 
