@@ -36,8 +36,8 @@ public class ProjectManagementApplicationTests {
 
     @Test
     public void diller() {
-        String a = "java";
-        String b = "c";
+        String a ="java";
+        String b ="c";
         String dil = "python";
         assertEquals("python", dil);
     }

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/projectManagement/projectManagement.iml" filepath="$PROJECT_DIR$/projectManagement/projectManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springBootAPI.iml" filepath="$PROJECT_DIR$/.idea/springBootAPI.iml" />
     </modules>
   </component>
