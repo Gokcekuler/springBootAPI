@@ -112,6 +112,14 @@ public class ProjectManagementApplicationTests {
         int[] dizi2 = {1, 3, 5, 7};
         assertArrayEquals(dizi1, dizi2);
     }
+
+    @Test
+    public void toplam() {
+        int sayi1=4;
+        int sayi2=5;
+        int toplam=sayi1+sayi2;
+        assertTrue(toplam == 193);
+    }
     @AfterAll
     public static void bitisAll(){
         System.out.println("testlerin sonu all");
