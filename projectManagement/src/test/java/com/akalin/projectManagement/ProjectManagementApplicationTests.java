@@ -118,7 +118,7 @@ public class ProjectManagementApplicationTests {
         int sayi1=4;
         int sayi2=5;
         int toplam=sayi1+sayi2;
-        assertTrue(toplam == 193);
+        assertTrue(toplam == 9);
     }
     @AfterAll
     public static void bitisAll(){
